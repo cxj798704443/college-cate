@@ -21,8 +21,9 @@
 
 
 2.动态建模
-
-
+[alt text](http://fmn.xnpic.com/fmn056/20130530/1650/original_ahDr_3124000000131260.jpg "版块状态图")
+[alt text](http://fmn.rrfmn.com/fmn059/20130530/1650/original_DNi6_6880000001de125f.jpg "帖子状态图")
+[alt text](http://fmn.rrimg.com/fmn062/20130530/1650/original_Ti4S_707800000015125d.jpg "用户状态图")
 
 三、超文本建模
 1.静态建模
