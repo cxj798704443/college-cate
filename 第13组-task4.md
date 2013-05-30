@@ -13,9 +13,13 @@
 
 2.活动图
 
+![alt text](http://t2.qpic.cn/mblogpic/ed6ff432f183c92f75ec/2000 "管理员活动图")
 
+
+![alt text](http://t2.qpic.cn/mblogpic/ac3d59b4e5bc0faccf0a/2000 "用户活动图")
 
 二、内容建模
+
 1.静态建模
 
 
