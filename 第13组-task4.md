@@ -7,7 +7,7 @@
 
 ![alt text](http://t1.qpic.cn/mblogpic/fafef418cc89ae6a2a64/2000 "用例图1")
 
-![alt text](http://t2.qpic.cn/mblogpic/43285413a78fa317f902/120 "用例图2")
+![alt text](http://t2.qpic.cn/mblogpic/43285413a78fa317f902/2000 "用例图2")
 
 
 
