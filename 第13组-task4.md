@@ -1,6 +1,6 @@
 一、功能需求建模
 1.用例图
-
+![alt text](http://t1.qpic.cn/mblogpic/fafef418cc89ae6a2a64/2000 "用例图1")
 
 
 2.活动图
