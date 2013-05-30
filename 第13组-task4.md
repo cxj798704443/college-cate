@@ -76,11 +76,18 @@
 ![alt text](http://t2.qpic.cn/mblogpic/c61b5797ed898a1ac224/2000 "序列图")
 
 ![alt text](http://t1.qpic.cn/mblogpic/84326113276ae9f63130/2000 "序列图")
+
 ![alt text](http://t1.qpic.cn/mblogpic/87838b5bb10376a18772/460 "序列图")
+
 ![alt text](http://t1.qpic.cn/mblogpic/5ad44d0a9abb9956e722/460 "序列图")
+
 ![alt text](http://t1.qpic.cn/mblogpic/67253b2475b94ad0b284/460 "序列图")
 
+![alt text](http://t2.qpic.cn/mblogpic/50770ffeddad42909f42/2000 "序列图")
 
+![alt text](http://t2.qpic.cn/mblogpic/c3f46cb538d06e49796c/2000 "序列图")
+
+![alt text](http://t2.qpic.cn/mblogpic/4c4b81f13954c2185b88/2000 "序列图")
 
 
 
