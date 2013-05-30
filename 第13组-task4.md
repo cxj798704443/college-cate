@@ -53,7 +53,29 @@
 
 2.动态建模
 
+![alt text](http://t2.qpic.cn/mblogpic/b3de88d2e725635d3696/2000 "序列图")
 
+![alt text](http://t1.qpic.cn/mblogpic/0e242d7b1124576dbbf2/2000 "序列图")
+
+![alt text](http://t2.qpic.cn/mblogpic/a8282e1276e5bb969b6e/2000 "序列图")
+
+![alt text](http://t2.qpic.cn/mblogpic/3a22615be4a9c1eb9116/2000 "序列图")
+
+![alt text](http://t2.qpic.cn/mblogpic/6e092d15306ad6b881d4/2000 "序列图")
+
+![alt text](http://t1.qpic.cn/mblogpic/b3b6ebd002ebc5576cfc/2000 "序列图")
+
+![alt text](http://t2.qpic.cn/mblogpic/747503e2dfd8807a79dc/2000 "序列图")
+
+![alt text](http://t2.qpic.cn/mblogpic/4f8290af78512cc55040/2000 "序列图")
+
+![alt text](http://t2.qpic.cn/mblogpic/dc414473b563b688c9ae/2000 "序列图")
+
+![alt text](http://t2.qpic.cn/mblogpic/b3de88d2e725635d3696/2000 "序列图")
+
+![alt text](http://t2.qpic.cn/mblogpic/b3de88d2e725635d3696/2000 "序列图")
+
+![alt text](http://t2.qpic.cn/mblogpic/b3de88d2e725635d3696/2000 "序列图")
 
 
 
