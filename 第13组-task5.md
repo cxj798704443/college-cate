@@ -33,7 +33,7 @@
 
 以下是数据库系统结构模式：
 
-![alt text]（http://fmn.rrimg.com/fmn062/20130604/0005/original_ac1f_7ff400002fba118f.jpg "数据库模型"）
+![alt text](http://fmn.rrimg.com/fmn062/20130604/0005/original_ac1f_7ff400002fba118f.jpg "数据库模型")
 
 
  1)客户端平台的独立性。三层数据库系统中，客户端统一使用Wpb浏览
